@@ -1,0 +1,25 @@
+### Welcome to R!
+
+This is a tutorial on how to program in R. I will start from the very beginning. I will expect that you are a generally intelligent human being, but if this is your first exposure to programming, that is totally fine! I will do my best to keep everything to a level that you can understand. Those of you who have programmed in the past may have to "grin and bear it" a little bit, but hopefully you can skip past what parts are not necessary or useful for you. 
+
+### What is R?
+
+R is a programming language made by statisticians for statisticians. It has some other applications, but principally it is used for statistical analyses, data analysis, and data visualization. 
+
+### What Will This Tutorial Cover?
+
+This tutorial will cover the following topics:
+
+ - Creating your environment
+
+ - Base R, libraries, and how to load them (tidyverse)
+ 
+ - plotting in base R
+ 
+ - Others. I will figure things out as time goes on
+ 
+
+
+
+
+
